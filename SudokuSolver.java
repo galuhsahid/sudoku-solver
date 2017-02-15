@@ -8,7 +8,7 @@ import aima.core.logic.propositional.parsing.ast.PropositionSymbol;
 import java.io.*;
 import java.util.*;
 
-public class Tugas1B {
+public class SudokuSolver {
 	
 	public static void main(String[] args) throws Exception {		
 		String strategy = args[0];
